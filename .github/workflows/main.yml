@@ -61,4 +61,4 @@ jobs:
         uses: docker/build-push-action@v2 
         with:
           push: true
-          tags: lusanuri/infra_actions:latest 
+          tags: lusanuri/infra_actions:latest
